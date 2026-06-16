@@ -1,2 +1,0 @@
-# Resources
-Helpful course resources.
