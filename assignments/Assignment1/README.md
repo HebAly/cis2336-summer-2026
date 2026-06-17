@@ -2,7 +2,6 @@
 
 ## Financial Planning Tips Webpage
 
-This repository contains the starter file for Assignment 1.
 
 ### Assignment Objective
 
